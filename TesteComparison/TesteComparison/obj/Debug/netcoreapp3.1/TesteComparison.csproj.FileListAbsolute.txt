@@ -11,3 +11,16 @@ C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Testes\TesteComparis
 C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Testes\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.dll
 C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Testes\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.pdb
 C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Testes\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.genruntimeconfig.cache
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\bin\Debug\netcoreapp3.1\TesteComparison.exe
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\bin\Debug\netcoreapp3.1\TesteComparison.deps.json
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\bin\Debug\netcoreapp3.1\TesteComparison.runtimeconfig.json
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\bin\Debug\netcoreapp3.1\TesteComparison.runtimeconfig.dev.json
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\bin\Debug\netcoreapp3.1\TesteComparison.dll
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\bin\Debug\netcoreapp3.1\TesteComparison.pdb
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.csprojAssemblyReference.cache
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.csproj.CoreCompileInputs.cache
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.AssemblyInfoInputs.cache
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.AssemblyInfo.cs
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.dll
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.pdb
+C:\Users\Raell\Documents\PROJETOS PROGRAMAÇÃO\C#\Projetos\Exercicios\ExTestesDiversos\TesteComparison\TesteComparison\obj\Debug\netcoreapp3.1\TesteComparison.genruntimeconfig.cache

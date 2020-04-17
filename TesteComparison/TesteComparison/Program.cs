@@ -13,7 +13,7 @@ namespace TesteComparison
             lista.Add(new Produto("Notebook", 1200.00));
             lista.Add(new Produto("Tablet", 450.00));
 
-            lista.Sort();
+            lista.Sort(CompararProdutos);
 
             foreach (Produto x in lista)
             {
@@ -21,6 +21,11 @@ namespace TesteComparison
             }
 
 
+        }
+
+        static int CompararProdutos(Produto p1, Produto p2)
+        {
+            return p1.Nome.ToUpper().CompareTo(p2.Nome.ToUpper());
         }
     }
 }

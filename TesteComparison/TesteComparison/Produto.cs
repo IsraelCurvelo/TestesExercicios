@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TesteComparison
 {
-    class Produto : IComparable<Produto>
+    class Produto
     {
         public string Nome { get; set; }
         public double Preco { get; set; }
@@ -21,9 +21,6 @@ namespace TesteComparison
             return Nome + ", " + Preco.ToString("F2", CultureInfo.InvariantCulture);
         }
 
-        public int CompareTo(Produto produto)
-        {
-            return Nome.ToUpper().CompareTo(produto.Nome.ToUpper());
-        }
+      
     }
 }
