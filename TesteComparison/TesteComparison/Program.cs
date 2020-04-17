@@ -14,9 +14,9 @@ namespace TesteComparison
             lista.Add(new Produto("Tablet", 450.00));
 
 
-            Comparison<Produto>  comp = (p1, p2) => p1.Nome.ToUpper().CompareTo(p2.Nome.ToUpper());
+           
 
-            lista.Sort(comp);
+            lista.Sort((p1, p2) => p1.Nome.ToUpper().CompareTo(p2.Nome.ToUpper()));
 
 
             foreach (Produto x in lista)
